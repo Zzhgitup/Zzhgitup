@@ -1,7 +1,6 @@
 ### 一名程序员的代码空间 👋
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Zzhgitup&show_icons=true&theme=tokyonight" /> </div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zzhgitup)](https://github.com/Zzhgitup/github-readme-stats)
+<div align="center"> <img src="[https://github-readme-stats.vercel.app/api?username=Zzhgitup&show_icons=true&theme=tokyonight](https://github-readme-stats.vercel.app/api/top-langs/?username=Zzhgitup)](https://github.com/Zzhgitup/github-readme-stats)" /></div>
 <!--
 **Zzhgitup/Zzhgitup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
